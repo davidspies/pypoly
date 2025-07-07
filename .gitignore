@@ -1,3 +1,6 @@
+/venv
+/_lite
+
 *.bundle.*
 lib/
 node_modules/
